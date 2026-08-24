@@ -1,6 +1,6 @@
-## Industrial Conveyor Control System
+# Industrial Conveyor Control System
 This is a PLC-controlled conveyor system that is built using Ladder Logic (LD), it features Auto/Manual operating modes, product counting, and automatic jam detection with alarm/fault latching.
-# Video Demonstration
+## Video Demonstration
 The video demo showcasing the logic and simulation can be accessed here https://youtu.be/MfTsW2H3e5U
 
 ## Overview
