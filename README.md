@@ -47,8 +47,8 @@ edge detection (`R_TRIG`), counters (`CTU`), timers (`TON`), latched
 alarm/fault handling, auto/manual mode switching (CODESYS).
 
 ## Related Projects
-- Tank Level Control in FBD
-- Recipe-driven Industrial Batch mixer in ST
+- Tank Level Control in FBD - https://github.com/khali333/Industrial-tank-level-control
+- Recipe-driven Industrial Batch mixer in ST - https://github.com/khali333/Industrial-batch-mixer
 
 ## Author
 Mohamed O. Khalifa Alsayed
